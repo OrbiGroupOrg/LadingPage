@@ -1,2 +1,2 @@
-# LadingPage
-LandingPage do Grupo Orbi, desenvolvida para a matéria de DW1 
+# LandingPage-Orbi
+Landing Page do grupo de PI Orbi feita para a matéria de DW
